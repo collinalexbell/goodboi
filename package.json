@@ -1,0 +1,22 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "a game console for dogs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kuberlog/goodboi.git"
+  },
+  "author": "kuberlog",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kuberlog/goodboi/issues"
+  },
+  "homepage": "https://github.com/kuberlog/goodboi#readme",
+  "dependencies": {
+    "scad-js": "^0.5.0"
+  }
+}
